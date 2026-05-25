@@ -434,16 +434,7 @@ Jangan menggunakan materi atau teknik dari resource mana pun untuk menyerang, me
 
 ---
 
-# 🆕 Tambahan Resource dari Link Baru
-
-> Section ini berisi resource tambahan dari link yang kamu berikan:
->
-> - `https://dimasc.tf/Cyber-Security-Learning-Resources/Resource_List/old_reddit_com_Hacking_Index_COPY/`
-> - `https://dimasc.tf/Cyber-Security-Learning-Resources/Resource_List/Link_Bermanfaat/`
-> - `https://github.com/rezaduty/cybersecurity-career-path`
-> - `https://github.com/screetsec/Cybersecurity-Indonesia`
-
----
+# 🆕 Tambahan Cyber Security Learning Resources
 
 ## 🇮🇩 Indonesia Cyber Security Learning Resources
 
