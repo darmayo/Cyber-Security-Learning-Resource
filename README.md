@@ -599,17 +599,3 @@ Jangan menggunakan materi atau teknik dari resource mana pun untuk menyerang, me
 6. Career Direction
    Cybersecurity Career Path → pilih role → ikuti roadmap per role
 ```
-
----
-
-## ✅ Update Audit
-
-```text
-New source pages added: 4
-Included from DimascTF old reddit hacking index: yes
-Included from DimascTF useful links: yes
-Included from cybersecurity-career-path: yes
-Included from Cybersecurity-Indonesia: yes
-Repo/tools lama: tidak dihapus
-Duplikasi: digabung/dirapikan
-```
