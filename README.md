@@ -574,28 +574,3 @@ Jangan menggunakan materi atau teknik dari resource mana pun untuk menyerang, me
 | The Hacker Manifesto | http://phrack.org/issues/7/3.html | Hacker culture/history reading. |
 
 ---
-
-## 🧠 Suggested Learning Path
-
-```text
-1. Foundation
-   Linux Journey → W3Schools Cyber Security → W3Schools Ethical Hacking
-   ↓
-2. Coding & Scripting
-   Codédex → Codewars → Python for OSINT 21 Days
-   ↓
-3. Web Security
-   PortSwigger Academy → DVWA/WebGoat/bWAPP → Bug Bounty Writeups
-   ↓
-4. CTF & Practice
-   OverTheWire → PicoCTF → TryHackMe → Hack The Box
-   ↓
-5. Specialization
-   Blue Team: CyberDefenders → Splunk/SIEM Labs → Incident Response Roadmap
-   Mobile: InsecureShop → OVAA → InsecureBankv2 → Mobile Hacking Lab
-   Malware/RE: Begin RE → Malware Analyst Roadmap → Practical Labs
-   Cloud/AppSec: Snyk Learn → DevSecOps Roadmap → Cloud Security Roadmap
-   ↓
-6. Career Direction
-   Cybersecurity Career Path → pilih role → ikuti roadmap per role
-```
